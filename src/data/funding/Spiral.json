@@ -1,0 +1,181 @@
+{
+  "funding": [
+    {
+      "source": "Spiral",
+      "target": "BTCPay Server",
+      "amount": 100000,
+      "year": 2019,
+      "src": "https://spiral.xyz/blog/grant-1-btcpay-server/"
+    },
+    {
+      "source": "Spiral",
+      "target": "ZmnSCPxj",
+      "year": 2019,
+      "src": "https://twitter.com/spiralbtc/status/1204815615678177280"
+    },
+    {
+      "source": "Spiral",
+      "target": "Jon Atack",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1235259492381741064"
+    },
+    {
+      "source": "Spiral",
+      "target": "Tankred Hase",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1235259494516625408"
+    },
+    {
+      "source": "Spiral",
+      "target": "Christoph Ono",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1278356152036634626"
+    },
+    {
+      "source": "Spiral",
+      "target": "Vasil Dimov",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1277633234227134464"
+    },
+    {
+      "source": "Spiral",
+      "target": "Brink",
+      "amount": 100000,
+      "year": 2020,
+      "src": "https://twitter.com/bitcoinbrink/status/1331212510679150594"
+    },
+    {
+      "source": "Spiral",
+      "target": "ZmnSCPxj",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1337444109771034624"
+    },
+    {
+      "source": "Spiral",
+      "target": "Steve Myers",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1281269625901256718"
+    },
+    {
+      "source": "Spiral",
+      "target": "Thorbjørn König",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1288550310441553925"
+    },
+    {
+      "source": "Spiral",
+      "target": "Lloyd Fournier",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1290339026462019585"
+    },
+    {
+      "source": "Spiral",
+      "target": "Johns Beharry",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1299013694639271938"
+    },
+    {
+      "source": "Spiral",
+      "target": "Daniel Nordh",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1300834719538597893"
+    },
+    {
+      "source": "Spiral",
+      "target": "BTCPay Server",
+      "amount": 100000,
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1306262997418024961"
+    },
+    {
+      "source": "Spiral",
+      "target": "Riccardo Casatta",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1319668887991013376"
+    },
+    {
+      "source": "Spiral",
+      "target": "The Eye of Satoshi",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1267493740417089536"
+    },
+    {
+      "source": "Spiral",
+      "target": "Chris Belcher",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1276925615422222341"
+    },
+    {
+      "source": "Spiral",
+      "target": "Lightning Signer",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1276239114669568000"
+    },
+    {
+      "source": "Spiral",
+      "target": "Patricia Estevão",
+      "year": 2020,
+      "src": "https://twitter.com/spiralbtc/status/1338529455636172803"
+    },
+    {
+      "source": "Spiral",
+      "target": "Dhruv Mehta",
+      "year": 2021,
+      "src": "https://twitter.com/spiralbtc/status/1397219302030331907"
+    },
+    {
+      "source": "Spiral",
+      "target": "Summer of Bitcoin",
+      "year": 2021,
+      "src": "https://twitter.com/spiralbtc/status/1436357520306671619"
+    },
+    {
+      "source": "Spiral",
+      "target": "Raj Maitra",
+      "year": 2021,
+      "src": "https://twitter.com/spiralbtc/status/1395047447802548227"
+    },
+    {
+      "source": "Spiral",
+      "target": "ZmnSCPxj",
+      "year": 2021,
+      "src": "https://twitter.com/spiralbtc/status/1472994909267406861"
+    },
+    {
+      "source": "Spiral",
+      "target": "Lightning Signer",
+      "year": 2021,
+      "src": "https://twitter.com/spiralbtc/status/1433108300774748161"
+    },
+    {
+      "source": "Spiral",
+      "target": "Vasil Dimov",
+      "year": 2021,
+      "src": "https://twitter.com/spiralbtc/status/1417514242845159426"
+    },
+    {
+      "source": "Spiral",
+      "target": "Steve Myers",
+      "year": 2021,
+      "src": "https://twitter.com/spiralbtc/status/1417514242845159426"
+    },
+    {
+      "source": "Spiral",
+      "target": "Mempool",
+      "year": 2021,
+      "src": "https://twitter.com/spiralbtc/status/1379830372461113346"
+    },
+    {
+      "source": "Spiral",
+      "target": "Summer of Bitcoin",
+      "year": 2022,
+      "src": "https://twitter.com/spiralbtc/status/1521573481216892929"
+    },
+    {
+      "source": "Spiral",
+      "target": "Mempool",
+      "year": 2022,
+      "src": "https://twitter.com/spiralbtc/status/1521529131212619777"
+    }
+  ]
+}

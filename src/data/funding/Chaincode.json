@@ -1,0 +1,51 @@
+{
+  "employs": [
+    {
+      "source": "Chaincode Labs",
+      "target": "James O'Beirne",
+      "details": "Engineer",
+      "year": [2018, 2020],
+      "src": "https://twitter.com/ChaincodeLabs/status/984524445799866369"
+    },
+    {
+      "source": "Chaincode Labs",
+      "target": "Pieter Wuille",
+      "details": "Engineer",
+      "year": [2020],
+      "src": "https://twitter.com/ChaincodeLabs/status/1300852236617232384"
+    },
+    {
+      "source": "Chaincode Labs",
+      "target": "Mark Erhardt",
+      "details": "Research Engineer",
+      "year": [2020],
+      "src": "https://twitter.com/ChaincodeLabs/status/1311678923227492358"
+    },
+    {
+      "source": "Chaincode Labs",
+      "target": "Clara Shikhelman",
+      "details": "POSTDOCTORAL RESEARCHER",
+      "year": [2020],
+      "src": "https://twitter.com/ChaincodeLabs/status/1288856826579234816"
+    },
+    {
+      "source": "Chaincode Labs",
+      "target": "Sergei Tikhomirov",
+      "details": "POSTDOCTORAL RESEARCHER",
+      "year": [2021],
+      "src": "https://twitter.com/ChaincodeLabs/status/1466454280806842375"
+    },
+    {
+      "source": "Chaincode Labs",
+      "target": "Carl Dong",
+      "details": "Engineer",
+      "year": [2019],
+      "src": "https://twitter.com/ChaincodeLabs/status/1085638641525932042"
+    },
+    {
+      "source": "Chaincode Labs",
+      "target": "Russell Yanofsky",
+      "details": "Engineer"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "employs": [
+    {
+      "source": "MIT DCI",
+      "target": "Tadge Dryja",
+      "details": "research scientist",
+      "year": [2018]
+    },
+    {
+      "source": "MIT DCI",
+      "target": "Wladimir van der Laan",
+      "details": "Bitcoin Core Developer",
+      "year": [2018],
+      "src": "https://www.rhyslindmark.com/rhys-joins-mit-media-labs-digital-currency-initiative/"
+    },
+    {
+      "source": "MIT DCI",
+      "target": "Cory Fields",
+      "details": "Bitcoin Core Developer",
+      "year": [2019],
+      "src": "https://web.archive.org/web/20190309003906/https://dci.mit.edu/team"
+    },
+    {
+      "source": "MIT DCI",
+      "target": "Anthony Towns",
+      "details": "Bitcoin Core Developer",
+      "year": [2021],
+      "src": "https://dci.mit.edu/research/2021/10/8/joining-mit-dci-to-lead-our-bitcoin-software-and-security-effort"
+    }
+  ]
+}

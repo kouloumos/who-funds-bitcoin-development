@@ -1,0 +1,22 @@
+{
+    "employs": [
+      {
+        "source": "Blockstream",
+        "target": "Andrew Chow",
+        "details": "Engineer"
+      },
+      {
+        "source": "Blockstream",
+        "target": "Pieter Wuille",
+        "details": ["Co-founder", "Core Tech Engineer"],
+        "year": [2014, 2020]
+      },
+      {
+        "source": "Blockstream",
+        "target": "Carl Dong",
+        "details": "Engineer",
+        "year": [2017, 2018]
+      }
+    ]
+  }
+  

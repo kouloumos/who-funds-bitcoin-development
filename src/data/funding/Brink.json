@@ -1,0 +1,147 @@
+{
+  "funding": [
+    {
+      "source": "Kraken",
+      "target": "Brink",
+      "amount": 150000,
+      "year": 2020,
+      "src": "https://blog.kraken.com/post/6920/kraken-grants-150000-to-new-bitcoin-developer-center-brink"
+    },
+    {
+      "source": "Silvergate Bank",
+      "target": "Brink",
+      "amount": 50000,
+      "src": "https://twitter.com/bitcoinbrink/status/1381642699925774341"
+    },
+    {
+      "source": "Brink",
+      "target": "Gloria Zhao",
+      "details": "Brink Fellowship",
+      "year": 2021,
+      "src": "https://brink.dev/blog/2020/12/01/gloria/"
+    },
+    {
+      "source": "Nexo",
+      "target": "Brink",
+      "amount": 150000,
+      "year": 2021,
+      "src": "https://nexo.io/media-center/nexo-commits-to-supporting-open-source-bitcoin-development-with-150k-donation-to-brink"
+    },
+    {
+      "source": "BtcTurk",
+      "target": "Brink",
+      "amount": 210000,
+      "year": 2021,
+      "src": "https://btcturk.medium.com/how-much-bitcoin-is-satoshi-nakamoto-holding-9270af64725f"
+    },
+    {
+      "source": "FTX",
+      "target": "Brink",
+      "amount": 450000,
+      "year": [2021, 2023],
+      "src": "https://twitter.com/ftx_official/status/1426197748588679172"
+    },
+    {
+      "source": "CMS Holdings",
+      "target": "Brink",
+      "amount": 200000
+    },
+    {
+      "source": "Stacks Foundation",
+      "target": "Brink",
+      "amount": 150000,
+      "year": 2021,
+      "src": "https://stacks.org/bitcoin-core-development"
+    },
+    {
+      "source": "BlockFi",
+      "target": "Brink",
+      "amount": 150000,
+      "year": 2021,
+      "src": "https://www.blockfi.com/blockfi-sponsors-brink-to-support-open-source-bitcoin-development"
+    },
+    {
+      "source": "Brink",
+      "target": "Jesse Posner",
+      "year": 2021,
+      "src": "https://brink.dev/blog/2021/03/31/grantees/"
+    },
+    {
+      "source": "Brink",
+      "target": "Alekos Filini",
+      "year": 2021,
+      "src": "https://brink.dev/blog/2021/03/31/grantees/"
+    },
+    {
+      "source": "Brink",
+      "target": "Hennadii Stepanov",
+      "year": 2021,
+      "src": "https://brink.dev/blog/2021/03/31/grantees/"
+    },
+    {
+      "source": "Brink",
+      "target": "Larry Ruane",
+      "year": 2021,
+      "details": ["part-time", "grant"],
+      "src": "https://brink.dev/blog/2021/07/15/grantees/"
+    },
+    {
+      "source": "Brink",
+      "target": "Sebastian Falbesoner",
+      "year": 2021,
+      "details": ["part-time", "grant"],
+      "src": "https://brink.dev/blog/2021/07/15/grantees/"
+    },
+    {
+      "source": "Exodus",
+      "target": "Brink",
+      "amount": 350000,
+      "year": 2022,
+      "src": "https://twitter.com/bitcoinbrink/status/1479104146137489414"
+    },
+    {
+      "source": "Brink",
+      "target": "Martin Zumsande",
+      "details": "Brink Fellowship",
+      "year": 2022,
+      "src": "https://brink.dev/blog/2021/10/22/martin/"
+    },
+    {
+      "source": "Brink",
+      "target": "0xB10C",
+      "year": 2022,
+      "src": "https://brink.dev/blog/2022/04/04/grantees/"
+    },
+    {
+      "source": "Brink",
+      "target": "Niklas Gögge",
+      "year": 2022,
+      "src": "https://brink.dev/blog/2022/04/04/grantees/"
+    },
+    {
+      "source": "Brink",
+      "target": "Bruno Garcia",
+      "year": 2022,
+      "src": "https://brink.dev/blog/2022/04/04/grantees/"
+    },
+    {
+      "source": "Brink",
+      "target": "Vincenzo Palazzo",
+      "year": 2022,
+      "src": "https://brink.dev/blog/2022/04/04/grantees/"
+    },
+    {
+      "source": "Craig Hammell",
+      "target": "Brink",
+      "amount": 1000000,
+      "year": 2022,
+      "src": "https://twitter.com/bitcoinbrink/status/1519331178679046145"
+    },
+    {
+      "source": "Brink",
+      "target": "Michael Ford",
+      "year": 2022,
+      "src": "https://brink.dev/blog/2022/05/13/michael-ford/"
+    }
+  ]
+}

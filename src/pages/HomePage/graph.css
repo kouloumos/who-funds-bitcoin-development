@@ -1,0 +1,12 @@
+line.active {
+  stroke-dasharray: 6 2;
+}
+
+circle.active {
+  stroke-width: 4px;
+}
+
+.active {
+  stroke: #f7931a;
+  stroke-opacity: 0.6;
+}

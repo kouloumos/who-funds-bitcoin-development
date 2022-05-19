@@ -1,0 +1,29 @@
+{
+  "funding": [
+    {
+      "source": "Coinbase",
+      "target": "0xB10C",
+      "year": 2021,
+      "src": "https://blog.coinbase.com/announcing-our-first-bitcoin-core-developer-grants-3d88559db068"
+    },
+    {
+      "source": "Coinbase",
+      "target": "João Barbosa",
+      "year": 2021,
+      "src": "https://blog.coinbase.com/announcing-our-first-bitcoin-core-developer-grants-3d88559db068"
+    },
+    {
+      "source": "Coinbase",
+      "target": "Brink",
+      "amount": 300000,
+      "year": 2022,
+      "src": "https://twitter.com/bitcoinbrink/status/1486408169165410313"
+    },
+    {
+      "source": "Coinbase",
+      "target": "Josie",
+      "year": 2022,
+      "src": "https://blog.coinbase.com/announcing-our-second-developer-grant-winners-ffd3f6e93860"
+    }
+  ]
+}

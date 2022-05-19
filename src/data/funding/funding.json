@@ -1,0 +1,115 @@
+{
+  "funding": [
+    {
+      "source": "John Pfeffer",
+      "target": "MIT DCI",
+      "year": 2018,
+      "src": "https://polylunar.com/bitcoin-grants-tracker/"
+    },
+    {
+      "source": "John Pfeffer",
+      "target": "Samuel Dobson",
+      "year": 2018,
+      "src": "https://polylunar.com/bitcoin-grants-tracker/"
+    },
+    {
+      "source": "Hardcore Fund",
+      "target": "Luke Dashjr",
+      "year": [2018, 2020],
+      "src": "https://twitter.com/LukeDashjr/status/1316364447120863232"
+    },
+    {
+      "source": "Hardcore Fund",
+      "target": "Ben Woosley",
+      "year": 2019,
+      "src": "https://hardcore.fund/"
+    },
+    {
+      "source": "DG Lab",
+      "target": "BTCPay Server",
+      "amount": 30000,
+      "year": 2019,
+      "src": "https://blog.btcpayserver.org/dg-grant-2019/"
+    },
+    {
+      "source": "Kraken",
+      "target": "BTCPay Server",
+      "amount": 150000,
+      "year": 2020,
+      "src": "https://bitcoinmagazine.com/business/kraken-announces-largest-ever-grant-to-btcpay"
+    },
+    {
+      "source": "BTSE",
+      "target": "BTCPay Server",
+      "amount": 80000,
+      "year": 2020,
+      "src": "https://blog.btcpayserver.org/btcpay-server-btse/"
+    },
+    {
+      "source": "John Pfeffer",
+      "target": "Antoine Riard",
+      "year": 2020,
+      "src": "https://twitter.com/jlppfeffer/status/1310676763522019331"
+    },
+    {
+      "source": "Independent Reserve",
+      "target": "Michael Ford",
+      "amount": 18500,
+      "year": 2020,
+      "src": "https://www.independentreserve.com/blog/news/independent-reserve-to-sponsor-bitcoin-core-development"
+    },
+    {
+      "source": "CardCoins",
+      "target": "Hennadii Stepanov",
+      "year": 2020,
+      "src": "https://blog.cardcoins.co/cardcoins-and-bitcoin-core"
+    },
+    {
+      "source": "Payvant",
+      "target": "Hennadii Stepanov",
+      "year": 2020,
+      "src": "https://blog.cardcoins.co/cardcoins-and-bitcoin-core"
+    },
+    {
+      "source": "Paradigm",
+      "target": "Anthony Towns",
+      "year": 2020,
+      "src": "https://www.matthuang.com/funding_bitcoin_development"
+    },
+    {
+      "source": "Marathon Digital Holdings",
+      "target": "Jonas Schnelli",
+      "amount": 96000,
+      "year": 2021,
+      "src": "https://ir.marathondh.com/news-events/press-releases/detail/1225/marathon-patent-group-provides-one-year-grant-to"
+    },
+    {
+      "source": "Wasabi",
+      "target": "Luke Dashjr",
+      "btc": 0.43,
+      "year": 2021,
+      "src": "https://blog.wasabiwallet.io/bitcoin-knots-donation/"
+    },
+    {
+      "source": "Bull Bitcoin",
+      "target": "Luke Dashjr",
+      "btc": 0.43,
+      "year": 2021,
+      "src": "https://medium.com/bull-bitcoin/bull-bitcoin-and-wasabi-wallet-award-40-000-bitcoin-development-grant-to-luke-jr-4418d03ab230"
+    },
+    {
+      "source": "Strike",
+      "target": "Jon Atack",
+      "amount": 100000,
+      "year": 2021,
+      "src": "https://twitter.com/Strike/status/1409938668890968066"
+    },
+    {
+      "source": "Compass Mining",
+      "target": "Jon Atack",
+      "amount": 80000,
+      "year": 2021,
+      "src": "https://compassmining.io/education/compass-core-developer-donation/"
+    }
+  ]
+}

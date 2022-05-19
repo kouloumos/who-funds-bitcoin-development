@@ -1,0 +1,50 @@
+{
+  "funding": [
+    {
+      "source": "Gemini",
+      "target": "HRF",
+      "amount": 50000,
+      "year": 2020,
+      "src": "https://www.gemini.com/blog/gemini-opportunity-fund-launches-to-support-bitcoin-core-developers"
+    },
+    {
+      "source": "Gemini",
+      "target": "Brink",
+      "amount": 150000,
+      "year": 2020,
+      "src": "https://www.gemini.com/blog/gemini-opportunity-fund-launches-to-support-bitcoin-core-developers"
+    },
+    {
+      "source": "Gemini",
+      "target": "MIT DCI",
+      "amount": 1000000,
+      "year": [2021, 2024],
+      "src": "https://www.gemini.com/blog/gemini-opportunity-fund-donates-to-mits-digital-currency-initiative"
+    },
+    {
+      "source": "Gemini",
+      "target": "Mempool",
+      "amount": 25000,
+      "year": 2021,
+      "src": "https://www.gemini.com/blog/gemini-supports-bitcoin-ecosystem-with-usd25k-mempool-space-sponsorship"
+    },
+    {
+      "source": "Gemini",
+      "target": "Amiti Uttarwar",
+      "year": 2021,
+      "src": "https://www.gemini.com/blog/gemini-to-sponsor-bitcoin-core-developer-amiti-uttarwar"
+    },
+    {
+      "source": "Gemini",
+      "target": "Jarol Rodriguez",
+      "year": 2021,
+      "src": "https://www.gemini.com/blog/gemini-to-sponsor-bitcoin-core-developers-dhruv-mehta-and-jarol-rodriguez"
+    },
+    {
+      "source": "Gemini",
+      "target": "Dhruv Mehta",
+      "year": 2021,
+      "src": "https://www.gemini.com/blog/gemini-to-sponsor-bitcoin-core-developers-dhruv-mehta-and-jarol-rodriguez"
+    }
+  ]
+}

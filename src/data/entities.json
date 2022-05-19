@@ -1,0 +1,916 @@
+{
+  "entities": [
+    {
+      "name": "Brink",
+      "twitter": "bitcoinbrink",
+      "github": "",
+      "description": "Brink exists to strengthen the Bitcoin protocol and network through fundamental research and development, and to support the Bitcoin developer community through funding, education, and mentoring.",
+      "avatar": "https://pbs.twimg.com/profile_images/1331223275783983104/M7_2bMDy_400x400.png"
+    },
+    {
+      "name": "Chaincode Labs",
+      "twitter": "chaincodelabs",
+      "github": "chaincodelabs",
+      "website": "https://chaincode.com/",
+      "description": "Chaincode Labs is a Bitcoin research and development center based in Midtown Manhattan, New York. We are privately funded and exist solely to support and develop Bitcoin.",
+      "avatar": "8126973"
+    },
+    {
+      "name": "Spiral",
+      "twitter": "spiralbtc",
+      "github": "",
+      "description": "Bitcoin is the best money. It should be used like it. We build and fund free, open-source projects aimed at making bitcoin the planet’s preferred currency.",
+      "avatar": "https://pbs.twimg.com/profile_images/1466158130690146307/MwDP2JaY_400x400.jpg"
+    },
+    {
+      "name": "MIT DCI",
+      "twitter": "mitdci",
+      "github": "mit-dci",
+      "description": "The Digital Currency Initiative was created in 2015 as a neutral way of funding Bitcoin developers, allowing us to continue to improve the software that powers the currency without the worry of an intrusive corporate mandate or ideology. While the DCI has since expanded in scope, that work continues as a crucial part of our mission.",
+      "avatar": "https://pbs.twimg.com/profile_images/1044341716696928256/2nSCo3n6_400x400.jpg"
+    },
+    {
+      "name": "Blockstream",
+      "twitter": "Blockstream",
+      "github": "Blockstream",
+      "description": "",
+      "avatar": "7424983",
+      "missingData": true
+    },
+    {
+      "name": "HRF",
+      "twitter": "HRF",
+      "website": "https://hrf.org/devfund",
+      "description": "The Human Rights Foundation’s Bitcoin Development Fund supports Bitcoin developers working to enhance privacy on the Bitcoin Network and ensure that bitcoin is a tool for financial freedom",
+      "avatar": "https://brink.dev/assets/images/sponsors/hrf.jpg"
+    },
+    {
+      "name": "Gemini",
+      "twitter": "Gemini",
+      "github": "gemini",
+      "website": "https://www.gemini.com/opportunity-fund",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1506628290693509129/gD0eqGyF_400x400.jpg"
+    },
+    {
+      "name": "Lightning Labs",
+      "twitter": "lightning",
+      "github": "lightninglabs",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1224898046195974145/7S25hk9V_400x400.png",
+      "missingData": true
+    },
+    {
+      "name": "OKCoin",
+      "twitter": "https://developergrant.okcoin.com/",
+      "github": "",
+      "website": "https://developergrant.okcoin.com/",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1410623088027267074/uHn6VlAi_400x400.jpg"
+    },
+    {
+      "name": "BitMEX",
+      "twitter": "BitMEX",
+      "github": "BitMEX",
+      "website": "https://blog.bitmex.com/grants/",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1427448339386101760/5Z4zo9Nv_400x400.jpg"
+    },
+    {
+      "name": "Coinbase",
+      "twitter": "coinbase",
+      "github": "coinbase",
+      "website": "",
+      "description": "",
+      "avatar": "1885080"
+    },
+    {
+      "name": "Kraken",
+      "twitter": "krakenfx",
+      "github": "krakenfx",
+      "website": "https://www.kraken.com/en-us/features/grants",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg"
+    },
+    {
+      "name": "DG Lab",
+      "twitter": "dglab_official",
+      "github": "DG-Lab",
+      "website": "https://www.dglab.com/",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/749160652862689280/bwJLkXjh_400x400.jpg",
+      "missingData": true
+    },
+    {
+      "name": "Acinq",
+      "twitter": "acinq_co",
+      "github": "ACINQ",
+      "website": "https://acinq.co/",
+      "description": "Contributors to the Lightning Network, developers of Eclair and Phoenix Wallet",
+      "avatar": "https://pbs.twimg.com/profile_images/844860649184276482/CpmSAjhF_400x400.jpg",
+      "tags": ["Lightning"],
+      "missingData": true
+    },
+    {
+      "name": "Strike",
+      "twitter": "Strike",
+      "avatar": "https://pbs.twimg.com/profile_images/1364254277976395776/JLPKQXtj_400x400.jpg"
+    },
+    {
+      "name": "Compass Mining",
+      "twitter": "compass_mining",
+      "github": "hashr8",
+      "avatar": "https://pbs.twimg.com/profile_images/1425165074373791744/f2CgInvP_400x400.jpg"
+    },
+    {
+      "name": "BTSE",
+      "twitter": "BTSEcom",
+      "github": "btsecom",
+      "avatar": "43165694"
+    },
+    {
+      "name": "CardCoins",
+      "twitter": "CardCoinsCo",
+      "github": "CardCoins",
+      "avatar": "72824571"
+    },
+    {
+      "name": "Payvant",
+      "twitter": "",
+      "website": "https://payvant.com/",
+      "avatar": "https://media-exp1.licdn.com/dms/image/C560BAQGSlI5_tl0T2A/company-logo_200_200/0/1591107083669?e=1660176000&v=beta&t=hjydF8byOZFNI9icwJmIMfIytMuJPkJQ_l25G-xHLyQ"
+    },
+    {
+      "name": "Silvergate Bank",
+      "twitter": "silvergatebank",
+      "website": "https://www.silvergate.com/",
+      "avatar": "https://pbs.twimg.com/profile_images/1191518282823520256/CBLoZGkV_400x400.png"
+    },
+    {
+      "name": "Exodus",
+      "twitter": "exodus_io",
+      "github": "ExodusMovement",
+      "website": "https://www.exodus.com/",
+      "avatar": "16415174"
+    },
+    {
+      "name": "Nexo",
+      "twitter": "Nexo",
+      "github": "nexofinance",
+      "avatar": "36294192"
+    },
+    {
+      "name": "FTX",
+      "twitter": "FTX_Official",
+      "avatar": "https://brink.dev/assets/images/sponsors/ftx.jpeg"
+    },
+    {
+      "name": "BtcTurk",
+      "twitter": "btcturkpro",
+      "avatar": "https://brink.dev/assets/images/sponsors/btcturk.jpg"
+    },
+    {
+      "name": "CMS Holdings",
+      "twitter": "cmsholdings",
+      "website": "http://cmsholdings.io/",
+      "avatar": "https://brink.dev/assets/images/sponsors/cms.png"
+    },
+    {
+      "name": "Stacks Foundation",
+      "twitter": "StacksOrg",
+      "website": "https://stacks.org/",
+      "avatar": "https://brink.dev/assets/images/sponsors/stacks.png"
+    },
+    {
+      "name": "BlockFi",
+      "twitter": "BlockFi",
+      "avatar": "https://pbs.twimg.com/profile_images/1466405940924719106/mpE6pC9L_400x400.jpg"
+    },
+    {
+      "name": "Independent Reserve",
+      "twitter": "indepreserve",
+      "github": "independentreserve",
+      "avatar": "5029515"
+    },
+    {
+      "name": "Paradigm",
+      "twitter": "paradigm",
+      "website": "https://www.paradigm.xyz/",
+      "avatar": "https://pbs.twimg.com/profile_images/1509651344994418688/OAY8rKKk_400x400.jpg"
+    },
+    {
+      "name": "Wasabi",
+      "twitter": "wasabiwallet",
+      "github": "zkSNACKs",
+      "website": "https://www.wasabiwallet.io/",
+      "avatar": "https://pbs.twimg.com/profile_images/1484278704759050244/OQZAsj7v_400x400.jpg"
+    },
+    {
+      "name": "Bull Bitcoin",
+      "twitter": "bullbitcoin_",
+      "github": "SatoshiPortal",
+      "website": "https://www.bullbitcoin.com/",
+      "avatar": "https://pbs.twimg.com/profile_images/1524535138662686721/YUmCvszo_400x400.jpg"
+    },
+    {
+      "name": "Hardcore Fund",
+      "github": "hardcorefund",
+      "website": "https://hardcore.fund/",
+      "description": "This is a non-profit organization which fundraises and donates to those who contribute to the Bitcoin ecosystem including individuals, projects, and other forms of organizations and activities.",
+      "avatar": "44615146"
+    },
+    {
+      "name": "Marathon Digital Holdings",
+      "twitter": "MarathonDH",
+      "website": "https://marathondh.com/",
+      "description": "Securing and supporting the world’s monetary network by building one of the largest, most agile, and most sustainable #Bitcoin mining operations in the world",
+      "avatar": "https://pbs.twimg.com/profile_images/1518991388725026816/9eXYWF1p_400x400.jpg"
+    },
+    {
+      "name": "Global Mesh Labs",
+      "twitter": "globalmeshlabs",
+      "github": "GlobalMeshLabs",
+      "website": "https://globalmeshlabs.org/",
+      "description": "An open source project to create a global mesh communication network incentivized by the Bitcoin Lightning network.",
+      "avatar": "51215620"
+    },
+    {
+      "name": "Gloria Zhao",
+      "twitter": "glozow",
+      "github": "glozow",
+      "description": "",
+      "avatar": "25183001"
+    },
+    {
+      "name": "Jeremy Rubin",
+      "twitter": "JeremyRubin",
+      "github": "jeremyrubin",
+      "description": "",
+      "avatar": "886523"
+    },
+    {
+      "name": "Mark Erhardt",
+      "twitter": "murchandamus",
+      "github": "Xekyo",
+      "description": "",
+      "avatar": "4060799"
+    },
+    {
+      "name": "John Pfeffer",
+      "twitter": "jlppfeffer",
+      "description": "Entrepreneur and Investor",
+      "avatar": "https://pbs.twimg.com/profile_images/1408690064150994945/zCXGWJiW_400x400.jpg"
+    },
+    {
+      "name": "Craig Hammell",
+      "twitter": "craighammell",
+      "github": "cilphex",
+      "website": "https://craighammell.com/",
+      "description": "",
+      "avatar": "https://brink.dev/assets/images/sponsors/craig-hammell.png"
+    },
+    {
+      "name": "Clara Shikhelman",
+      "twitter": "ClaraShik",
+      "github": "clarashk",
+      "description": "Clara is researching the theoretical aspects of Bitcoin both from computer science and economic perspectives.",
+      "avatar": "https://chaincode.com/assets/images/Clara.jpg"
+    },
+    {
+      "name": "Sergei Tikhomirov",
+      "twitter": "serg_tikhomirov",
+      "github": "s-tikhomirov",
+      "description": "Sergei is researching the security and privacy of Bitcoin with a focus on the Lightning Network (i.e., channel balance probing).",
+      "avatar": "7126627"
+    },
+    {
+      "name": "kouloumos",
+      "twitter": "kouloumos",
+      "github": "kouloumos",
+      "description": "Low time preference dev pushing to work on the foundations of the new monetary system.",
+      "avatar": "18506343"
+    },
+    {
+      "name": "BTCPay Server",
+      "twitter": "BtcpayServer",
+      "github": "btcpayserver",
+      "description": "As a self-hosted, open-source cryptocurrency payment processor, BTCPay Server encourages adoption and greater use of Bitcoin by increasing its utility across global merchants. ",
+      "avatar": "31132886"
+    },
+    {
+      "name": "Lightning Signer",
+      "twitter": "VLSProject",
+      "github": "",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1307015869944352769/TSspDwK9_400x400.jpg"
+    },
+    {
+      "name": "The Eye of Satoshi",
+      "twitter": "eyeofsatoshi",
+      "github": "",
+      "description": "A FOSS Lightning Network watchtower developed by Sergi Delgado. It monitors blockchain transactions to protect you from peers closing the channel and taking your coins.",
+      "avatar": "https://pbs.twimg.com/profile_images/1248211901571457027/c4-cYPSS_400x400.jpg"
+    },
+    {
+      "name": "Mempool",
+      "twitter": "mempool",
+      "github": "mempool",
+      "description": "",
+      "avatar": "54372811"
+    },
+    {
+      "name": "Muun Wallet",
+      "twitter": "muunwallet",
+      "github": "muun",
+      "website": "https://muun.com/",
+      "description": "Muun is a self-custodial wallet for bitcoin and lightning.",
+      "avatar": "https://pbs.twimg.com/profile_images/1466752580185329664/QAVb1J5b_400x400.jpg"
+    },
+    {
+      "name": "Blockchain Commons",
+      "twitter": "BlockchainComns",
+      "github": "BlockchainCommons",
+      "website": "https://www.blockchaincommons.com/",
+      "description": "Supporting Open Blockchain Infrastructure, Internet Security & Cryptographic Research.",
+      "avatar": "https://pbs.twimg.com/profile_images/1082125914337566720/MsBizBrS_400x400.jpg"
+    },
+    {
+      "name": "Africa Bitcoin Conference",
+      "twitter": "AfricaBTConf_F",
+      "website": "https://www.afrobitcoin.org/",
+      "description": "Hosted in Accra on Dec. 7-9, the event will unite Bitcoin/Lightning builders from across Africa",
+      "avatar": "https://pbs.twimg.com/profile_images/1511776041660030978/boSARL_o_400x400.jpg"
+    },
+    {
+      "name": "Summer of Bitcoin",
+      "twitter": "summerofbitcoin",
+      "github": "",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1450717705632301057/BWfeOPU__400x400.jpg"
+    },
+    {
+      "name": "Jon Atack",
+      "twitter": "jonatack",
+      "github": "",
+      "description": "",
+      "avatar": "2415484"
+    },
+    {
+      "name": "Vasil Dimov",
+      "twitter": "vasild",
+      "github": "",
+      "description": "",
+      "avatar": "266751"
+    },
+    {
+      "name": "Tadge Dryja",
+      "twitter": "tdryja",
+      "github": "adiabat",
+      "description": "A creator of the Lightning Network, Tadge Dryja leads DCI research focused on the scaling and interoperability of cryptocurrencies and smart contracts.",
+      "avatar": "https://images.squarespace-cdn.com/content/v1/59aae5e9a803bb10bedeb03e/1504454164145-1EXVIBWA0V0D5E9EI750/tadge+dryja.jpg"
+    },
+    {
+      "name": "Steve Myers",
+      "twitter": "",
+      "github": "notmandatory",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1510150971044753410/pMOkiSQB_400x400.jpg",
+      "tags": ["Bitcoin Dev Kit"]
+    },
+    {
+      "name": "Marco Falke",
+      "twitter": "marcofalke",
+      "github": "MarcoFalke",
+      "description": "As a Bitcoin maintainer and the most active contributor to the Bitcoin code since 2017, Marco improves Bitcoin’s test infrastructure and is working on modularizing the Bitcoin Core code.",
+      "avatar": "6399679"
+    },
+    {
+      "name": "Calvin Kim",
+      "twitter": "kcalvinalvinn",
+      "github": "kcalvinalvin",
+      "description": "Calvin has been contributing to the Utreexo project since 2019. His main interest is to improve the scalability in Bitcoin’s base layer.",
+      "avatar": "37185887",
+      "tags": ["Utreexo"]
+    },
+    {
+      "name": "Chris Coverdale",
+      "twitter": "chris_coverdale",
+      "github": "ccdle12",
+      "description": "Chris has been contributing to Lightning and Bitcoin Core technologies since 2019. His primary focus is Bitcoin and mining protocols such as StratumV2.",
+      "avatar": "18324680"
+    },
+    {
+      "name": "Michael Ford",
+      "twitter": "fanquake",
+      "github": "fanquake",
+      "description": "",
+      "avatar": "https://blog.bitmex.com/wp-content/uploads/2021/09/ford.jpg"
+    },
+    {
+      "name": "Hennadii Stepanov",
+      "twitter": "hhebasto",
+      "github": "hebasto",
+      "description": "Hennadii has been contributing code and review to Bitcoin Core since 2018. In that time he has become one of the most prolific contributors to the project. Hennadii’s funding allows him to work full time on Bitcoin Core development and review.",
+      "avatar": "32963518"
+    },
+    {
+      "name": "Carl Dong",
+      "twitter": "carl_dong",
+      "github": "dongcarl",
+      "description": "Contributor to rust-bitcoin and Bitcoin. Carl has worked on incorporating Guix deterministic and bootstrappable builds into Bitcoin Core.",
+      "avatar": "3445290"
+    },
+    {
+      "name": "Andrew Chow",
+      "twitter": "achow101",
+      "github": "achow101",
+      "website": "https://achow101.com/",
+      "description": "",
+      "avatar": "3782274"
+    },
+    {
+      "name": "Pieter Wuille",
+      "twitter": "pwuille",
+      "github": "sipa",
+      "description": "",
+      "avatar": "548488"
+    },
+    {
+      "name": "John Newbery",
+      "twitter": "jfnewbery",
+      "github": "jnewbery",
+      "description": "",
+      "avatar": "1063656"
+    },
+    {
+      "name": "Sebastian Falbesoner",
+      "twitter": "theStack",
+      "github": "theStack",
+      "description": "",
+      "avatar": "91535"
+    },
+    {
+      "name": "Thomas J",
+      "twitter": "practicalswift",
+      "github": "practicalswift",
+      "description": "",
+      "avatar": "7826565"
+    },
+    {
+      "name": "Amiti Uttarwar",
+      "twitter": "amizi",
+      "github": "amitiuttarwar",
+      "description": "Amiti’s Bitcoin Core contributions have already strengthened the protocol and cryptocurrency. Her work focuses on improving privacy at the protocol layer and increasing test coverage for the P2P layer.",
+      "avatar": "1500952"
+    },
+    {
+      "name": "Russell Yanofsky",
+      "twitter": "russyanofsky",
+      "github": "ryanofsky",
+      "description": "Russ has done a lot of work to help separate Bitcoin Core’s node, wallet and GUI components. His work to introduce well-defined node-wallet and node-GUI has been merged to the project, and he continues to work on a long-term goal to run the components in different processes.",
+      "avatar": "7133040",
+      "tags": ["Bitcoin Core"]
+    },
+    {
+      "name": "Anthony Towns",
+      "twitter": "ajtowns",
+      "github": "ajtowns",
+      "description": "",
+      "avatar": "127186",
+      "tags": ["Bitcoin Core"]
+    },
+    {
+      "name": "Wladimir van der Laan",
+      "twitter": "orionwl",
+      "github": "laanwj",
+      "description": "Lead Maintainer of the Bitcoin repository on GitHub",
+      "avatar": "126646",
+      "tags": ["Bitcoin Core"]
+    },
+    {
+      "name": "Fabian Jahr",
+      "twitter": "fjahr",
+      "github": "fjahr",
+      "description": "",
+      "avatar": "1322187"
+    },
+    {
+      "name": "João Barbosa",
+      "twitter": "promag",
+      "github": "promag",
+      "description": "João is a developer and frequent contributor to Bitcoin Core, Bitcoin’s most used client. In his work, he focuses on reviewing code, testing and on improving the experience Bitcoin Core users can have.",
+      "avatar": "3534524",
+      "tags": ["Bitcoin Core"]
+    },
+    {
+      "name": "Samuel Dobson",
+      "twitter": "meshcollider",
+      "github": "meshcollider",
+      "description": "",
+      "avatar": "3211283"
+    },
+    {
+      "name": "Luke Dashjr",
+      "twitter": "LukeDashjr",
+      "github": "luke-jr",
+      "description": "",
+      "avatar": "1095675"
+    },
+    {
+      "name": "Rusty Russell",
+      "twitter": "rusty_twit",
+      "github": "rustyrussell",
+      "website": "http://rusty.ozlabs.org/",
+      "description": "",
+      "avatar": "775844"
+    },
+    {
+      "name": "Sjors Provoost",
+      "twitter": "provoost",
+      "github": "Sjors",
+      "description": "",
+      "avatar": "10217"
+    },
+    {
+      "name": "Kalle Alm",
+      "twitter": "kallewoof",
+      "github": "kallewoof",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1113062787947757568/R2ZhxjdT_400x400.png"
+    },
+    {
+      "name": "James O'Beirne",
+      "twitter": "jamesob",
+      "github": "jamesob",
+      "website": "https://jameso.be/",
+      "description": "",
+      "avatar": "73197"
+    },
+    {
+      "name": "Rene Pickhardt",
+      "twitter": "renepickhardt",
+      "github": "renepickhardt",
+      "website": "https://ln.rene-pickhardt.de/",
+      "description": "Rene Pickhardt has been an important contributor to Lightning through education, research, and identification of security vulnerabilities",
+      "avatar": "1926816",
+      "tags": ["Research", "Lightning"]
+    },
+    {
+      "name": "S3RK",
+      "twitter": "",
+      "github": "S3RK",
+      "description": "",
+      "avatar": "1466284"
+    },
+    {
+      "name": "Jarol Rodriguez",
+      "twitter": "jarolrod",
+      "github": "jarolrod",
+      "description": "",
+      "avatar": "23396902"
+    },
+    {
+      "name": "Ruben Somsen",
+      "twitter": "SomsenRuben",
+      "github": "RubenSomsen",
+      "description": "Bitcoin Sorcerer that does protocol design in order to enhance Bitcoin.",
+      "avatar": "https://pbs.twimg.com/profile_images/1027624975333650432/lu-5FObc_400x400.jpg"
+    },
+    {
+      "name": "Suhas Daftuar",
+      "twitter": "suhasdaftuar",
+      "github": "sdaftuar",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/846539116879757312/srjc36Qp_400x400.jpg"
+    },
+    {
+      "name": "Ben Woosley",
+      "twitter": "Empact",
+      "github": "Empact",
+      "description": "",
+      "avatar": "5470"
+    },
+    {
+      "name": "Antoine Poinsot",
+      "twitter": "darosior",
+      "github": "darosior",
+      "description": "",
+      "avatar": "22457751"
+    },
+    {
+      "name": "Jonas Schnelli",
+      "twitter": "_jonasschnelli_",
+      "github": "jonasschnelli",
+      "description": "",
+      "avatar": "178464"
+    },
+    {
+      "name": "Martin Zumsande",
+      "twitter": "Lightlike1",
+      "github": "mzumsande",
+      "description": "",
+      "avatar": "48763452"
+    },
+    {
+      "name": "Gregory Sanders",
+      "twitter": "theinstagibbs",
+      "github": "instagibbs",
+      "description": "",
+      "avatar": "5767891"
+    },
+    {
+      "name": "Michael Dietz",
+      "twitter": "waya_ai",
+      "github": "mjdietzx",
+      "description": "",
+      "avatar": "7217256"
+    },
+    {
+      "name": "Aaron Clauson",
+      "twitter": "sipsorcery",
+      "github": "sipsorcery",
+      "description": "",
+      "avatar": "197660"
+    },
+    {
+      "name": "Dhruv Mehta",
+      "twitter": "dhruv",
+      "github": "dhruv",
+      "website": "https://voluntarymind.com/",
+      "description": "Dhruv’s work relates to the susceptibility of the Bitcoin Network to DNS and border gateway protocol attacks on Bitcoin seed nodes.",
+      "avatar": "856960"
+    },
+    {
+      "name": "Cory Fields",
+      "twitter": "",
+      "github": "theuni",
+      "description": "",
+      "avatar": "417043",
+      "tags": ["Bitcoin Core"]
+    },
+    {
+      "name": "Matt Corallo",
+      "twitter": "thebluematt",
+      "github": "TheBlueMatt",
+      "description": "",
+      "avatar": "649246"
+    },
+    {
+      "name": "Gleb Naumenko",
+      "twitter": "ffstls",
+      "github": "naumenkogs",
+      "description": "",
+      "avatar": "7975071"
+    },
+    {
+      "name": "Tankred Hase",
+      "twitter": "tankredhase",
+      "github": "tanx",
+      "website": "https://tankredhase.com/",
+      "description": "Software Engineer interested in Bitcoin Security, Privacy, and UX",
+      "avatar": "1374174"
+    },
+    {
+      "name": "Raj Maitra",
+      "twitter": "RajarshiMaitra",
+      "github": "rajarshimaitra",
+      "website": "https://rajarshi149.medium.com/",
+      "description": "",
+      "avatar": "36541669",
+      "tags": ["Bitcoin Dev Kit"]
+    },
+    {
+      "name": "Riccardo Casatta",
+      "twitter": "RCasatta",
+      "github": "RCasatta",
+      "description": "FOSS dev building BDK and Firma.",
+      "avatar": "6470319",
+      "tags": ["Bitcoin Dev Kit"]
+    },
+    {
+      "name": "Chris Belcher",
+      "twitter": "chris_belcher_",
+      "github": "chris-belcher",
+      "website": "https://gist.github.com/chris-belcher/9144bd57a91c194e332fb5ca371d0964",
+      "description": "Works on CoinSwap.",
+      "avatar": "8398185"
+    },
+    {
+      "name": "Christoph Ono",
+      "twitter": "GBKS",
+      "github": "GBKS",
+      "website": "https://www.germanysbestkeptsecret.com/",
+      "description": "Designer & developer. Helping improve bitcoin design with many others at http://bitcoin.design",
+      "avatar": "695901",
+      "tags": ["Design"]
+    },
+    {
+      "name": "Thorbjørn König",
+      "twitter": "ThorbjornKonig",
+      "github": "Thorbjoern",
+      "website": "https://www.behance.net/thorbjoernkoenig",
+      "description": "",
+      "avatar": "1475525",
+      "tags": ["Design"]
+    },
+    {
+      "name": "Johns Beharry",
+      "twitter": "johnsBeharry",
+      "github": "johnsbeharry",
+      "description": "Hybrid product designer bringing order to on-chain, layer 2, CoinJoins, BLTs, PayJoins, and PSBTs by helping develop the payments section of the Bitcoin Design Guid",
+      "avatar": "183140",
+      "tags": ["Design"]
+    },
+    {
+      "name": "Daniel Nordh",
+      "twitter": "danielnordh",
+      "github": "danielnordh",
+      "description": "A contributor to the Bitcoin Design Community since before it was a community, Daniel is helping create the private key management section of the Bitcoin Design Guide.",
+      "avatar": "3393669",
+      "tags": ["Design"]
+    },
+    {
+      "name": "Patricia Estevão",
+      "twitter": "patestevao",
+      "github": "patestevao",
+      "website": "https://patestevao.com/",
+      "description": "UX Designer focused on user security and privacy.",
+      "avatar": "7728511",
+      "tags": ["Design"]
+    },
+    {
+      "name": "Paulo Sacramento",
+      "twitter": "paulosacramento",
+      "github": "paulosacramento",
+      "website": "https://www.psacramento.com/",
+      "description": "Contributor to the Bitcoin Design Guide.",
+      "avatar": "76049494",
+      "tags": ["Design"]
+    },
+    {
+      "name": "Lloyd Fournier",
+      "twitter": "llfourn",
+      "github": "LLFourn",
+      "description": "",
+      "avatar": "3734083",
+      "tags": ["Research"]
+    },
+    {
+      "name": "Antoine Riard",
+      "twitter": "",
+      "github": "ariard",
+      "description": "Antoine addresses security flaws on both the Bitcoin base layer and Lightning, a second layer application. He also created The Label, a collective of independent developers focused on security and advancing lightning.",
+      "avatar": "23310655"
+    },
+    {
+      "name": "Jesse Posner",
+      "twitter": "jesseposner",
+      "github": "jesseposner",
+      "description": "Works on adaptor signatures and an implementation of the FROST threshold signature scheme. These technologies bring additional security, privacy and functionality to multisignature and second layer protocols.",
+      "avatar": "12010116"
+    },
+    {
+      "name": "Alekos Filini",
+      "twitter": "afilini",
+      "github": "afilini",
+      "description": "Alekos’s funding supports his work as maintainer of the Bitcoin Dev Kit, a lightweight and modular collection of tools for use by wallets and other Bitcoin applications.",
+      "avatar": "3058409",
+      "tags": ["Bitcoin Dev Kit"]
+    },
+    {
+      "name": "Larry Ruane",
+      "twitter": "larryruane",
+      "github": "LarryRuane",
+      "description": "",
+      "avatar": "8321330"
+    },
+    {
+      "name": "0xB10C",
+      "twitter": "0xb10c",
+      "github": "0xb10c",
+      "website": "https://b10c.me/",
+      "description": "Over the past years, I’ve built tools to visualize and observe the Bitcoin mempool, mining pool transaction selection, and other protocol level statistics.",
+      "avatar": "19157360"
+    },
+    {
+      "name": "Vincenzo Palazzo",
+      "twitter": "palazzovincenzo",
+      "github": "vincenzopalazzo",
+      "description": "",
+      "avatar": "https://brink.dev/assets/images/vincenzo-palazzo.jpg"
+    },
+    {
+      "name": "Niklas Gögge",
+      "twitter": "dergoegge",
+      "github": "dergoegge",
+      "description": "",
+      "avatar": "8077169",
+      "tags": ["Utreexo"]
+    },
+    {
+      "name": "Bruno Garcia",
+      "twitter": "brrrunog",
+      "github": "brunoerg",
+      "description": "",
+      "avatar": "19480819"
+    },
+    {
+      "name": "Abubakar Nur Khalil",
+      "twitter": "ihate1999",
+      "github": "Zero-1729",
+      "description": "",
+      "avatar": "23586626"
+    },
+    {
+      "name": "Janine",
+      "twitter": "J9Roem",
+      "github": "Enegnei",
+      "website": "https://einzelgaengerinmotte.wordpress.com/",
+      "description": "Janine's “This Month In Bitcoin Privacy” newsletter collects and redistributes the latest news and how-tos in Bitcoin privacy to help readers better protect themselves from bad actors and prying eyes while utilizing the technology.",
+      "avatar": "https://pbs.twimg.com/profile_images/1355868597202149381/1_KgHBZZ_400x400.jpg",
+      "tags": ["Education", "Newsletter"]
+    },
+    {
+      "name": "Sphinx",
+      "twitter": "sphinx_chat",
+      "github": "stakwork",
+      "website": "https://sphinx.chat/",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1244678947670855680/0MNiZluU_400x400.png"
+    },
+    {
+      "name": "Breez",
+      "twitter": "breez_tech",
+      "github": "breez",
+      "website": "https://breez.technology/",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1396954480822919172/Zs-kMWR2_400x400.jpg"
+    },
+    {
+      "name": "Josie",
+      "twitter": "josibake",
+      "github": "josibake",
+      "description": "",
+      "avatar": "7444140"
+    },
+    {
+      "name": "Openoms",
+      "twitter": "openoms",
+      "github": "openoms",
+      "description": "",
+      "avatar": "43343391"
+    },
+    {
+      "name": "Evan Kaloudis",
+      "twitter": "evankaloudis",
+      "github": "kaloudis",
+      "description": "",
+      "avatar": "1878621"
+    },
+    {
+      "name": "Fontaine",
+      "twitter": "Fonta1n3",
+      "github": "Fonta1n3",
+      "description": "",
+      "avatar": "30832395"
+    },
+    {
+      "name": "ZmnSCPxj",
+      "twitter": "",
+      "github": "ZmnSCPxj",
+      "website": "https://zmnscpxj.github.io/",
+      "description": "",
+      "avatar": "28175207"
+    },
+    {
+      "name": "Ben Kaufman",
+      "twitter": "_benkaufman",
+      "github": "ben-kaufman",
+      "website": "https://benkaufman.info/",
+      "description": "Building Specter Desktop – an alternative GUI for Bitcoin Core optimized to work with hardware wallets, multisigs, and airgapped devices.",
+      "avatar": "https://pbs.twimg.com/profile_images/1431399991797501959/yBgZD3ee_400x400.jpg"
+    },
+    {
+      "name": "Francisco Calderón",
+      "twitter": "negrunch",
+      "github": "grunch",
+      "website": "https://grunch.dev/",
+      "description": "Working on lnp2pbot, a non-custodial peer-to-peer (P2P) Telegram bot that allows users to trade BTC using the Lightning Network",
+      "avatar": "228364"
+    },
+    {
+      "name": "stickies-v",
+      "twitter": "",
+      "github": "stickies-v",
+      "description": "",
+      "avatar": "69010457"
+    },
+    {
+      "name": "Will Clark",
+      "twitter": "willcl_ark",
+      "github": "willcl-ark",
+      "description": "",
+      "avatar": "https://pbs.twimg.com/profile_images/1362910214589214723/RDvsk_Nk_400x400.jpg"
+    }
+  ]
+}

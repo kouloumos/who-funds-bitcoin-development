@@ -1,0 +1,103 @@
+{
+  "funding": [
+    {
+      "source": "BitMEX",
+      "target": "MIT DCI",
+      "amount": 250000,
+      "year": 2019,
+      "src": "https://blog.bitmex.com/donation/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Michael Ford",
+      "amount": 50000,
+      "year": 2019,
+      "src": "https://blog.bitmex.com/2019-ford-bitcoin-grant/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "MIT DCI",
+      "amount": 250000,
+      "year": 2020,
+      "src": "https://blog.bitmex.com/continued-support-of-bitcoin-development-hdr-provides-a-2nd-gift-to-the-mit-dci/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Amiti Uttarwar",
+      "amount": 75000,
+      "year": 2020,
+      "src": "https://blog.okcoin.com/2020/06/18/okcoin-bitmex-provide-grant-to-bitcoin-core-developer-amiti-uttarwar/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Michael Ford",
+      "amount": 100000,
+      "year": 2020,
+      "src": "https://blog.bitmex.com/hdr-global-trading-increases-bitcoin-developer-grant-to-us100000/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Gleb Naumenko",
+      "amount": 100000,
+      "year": 2020,
+      "src": "https://blog.bitmex.com/bitcoin-developer-grant-provided-to-gleb-naumenko/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Jeremy Rubin",
+      "amount": 50000,
+      "year": 2020,
+      "src": "https://blog.bitmex.com/bitcoin-developer-grant-provided-to-jeremy-rubin/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Calvin Kim",
+      "amount": 40000,
+      "year": 2020,
+      "src": "https://blog.bitmex.com/bitcoin-developer-grant-provided-to-calvin-kim/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Rene Pickhardt",
+      "amount": 33333,
+      "year": 2021,
+      "src": "https://blog.bitmex.com/rene-pickhardt/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Chris Coverdale",
+      "amount": 33333,
+      "year": 2021,
+      "src": "https://blog.bitmex.com/chris-coverdale/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Calvin Kim",
+      "amount": 100000,
+      "year": 2021,
+      "src": "https://blog.bitmex.com/renewal-of-calvin-kims-bitcoin-developer-grant/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Gleb Naumenko",
+      "amount": 100000,
+      "year": 2021,
+      "src": "https://blog.bitmex.com/renewal-of-gleb-naumenkos-bitcoin-developer-grant/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Michael Ford",
+      "amount": 100000,
+      "year": 2021,
+      "src": "https://blog.bitmex.com/100x-group-provides-third-grant-to-bitcoin-maintainer-michael-ford/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Sjors Provoost",
+      "amount": 37500,
+      "year": 2021,
+      "details": ["part-time", "grant"],
+      "src": "https://blog.bitmex.com/new-open-source-bitcoin-developer-grant-for-sjors-provoost-2/"
+    }
+  ]
+}

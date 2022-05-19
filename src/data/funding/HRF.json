@@ -1,0 +1,158 @@
+{
+  "funding": [
+    {
+      "source": "HRF",
+      "target": "Chris Belcher",
+      "amount": 50000,
+      "year": 2020,
+      "src": "https://hrf.org/announcing-hrfs-bitcoin-development-fund/"
+    },
+    {
+      "source": "HRF",
+      "target": "Openoms",
+      "btc": 1,
+      "year": 2020,
+      "src": "https://bitcoinmagazine.com/culture/the-human-rights-foundation-awards-grants-to-three-more-bitcoin-projects"
+    },
+    {
+      "source": "HRF",
+      "target": "Evan Kaloudis",
+      "btc": 1,
+      "year": 2020,
+      "src": "https://bitcoinmagazine.com/culture/the-human-rights-foundation-awards-grants-to-three-more-bitcoin-projects"
+    },
+    {
+      "source": "HRF",
+      "target": "Fontaine",
+      "btc": 1,
+      "year": 2020,
+      "src": "https://bitcoinmagazine.com/culture/the-human-rights-foundation-awards-grants-to-three-more-bitcoin-projects"
+    },
+    {
+      "source": "HRF",
+      "target": "Brink",
+      "amount": 50000,
+      "year": 2020,
+      "src": "https://twitter.com/bitcoinbrink/status/1331212510679150594"
+    },
+    {
+      "source": "HRF",
+      "target": "Ben Kaufman",
+      "amount": 25000,
+      "year": 2021,
+      "src": "https://bitcoinmagazine.com/culture/human-rights-foundation-provides-grants-to-specter-lot49"
+    },
+    {
+      "source": "HRF",
+      "target": "Global Mesh Labs",
+      "amount": 25000,
+      "year": 2021,
+      "src": "https://bitcoinmagazine.com/culture/human-rights-foundation-provides-grants-to-specter-lot49"
+    },
+    {
+      "source": "HRF",
+      "target": "Jesse Posner",
+      "amount": 25000,
+      "year": 2021,
+      "src": "https://bitcoinmagazine.com/technical/human-rights-foundation-announces-70000-in-bitcoin-development-grants"
+    },
+    {
+      "source": "HRF",
+      "target": "Muun Wallet",
+      "amount": 25000,
+      "year": 2021,
+      "src": "https://bitcoinmagazine.com/technical/human-rights-foundation-announces-70000-in-bitcoin-development-grants"
+    },
+    {
+      "source": "HRF",
+      "target": "Janine",
+      "amount": 10000,
+      "year": 2021,
+      "src": "https://bitcoinmagazine.com/technical/human-rights-foundation-announces-70000-in-bitcoin-development-grants"
+    },
+    {
+      "source": "HRF",
+      "target": "Blockchain Commons",
+      "amount": 10000,
+      "year": 2021,
+      "src": "https://bitcoinmagazine.com/technical/human-rights-foundation-announces-70000-in-bitcoin-development-grants"
+    },
+    {
+      "source": "HRF",
+      "target": "Dhruv Mehta",
+      "amount": 50000,
+      "year": 2021,
+      "src": "https://hrf.org/hrf-bitcoin-development-fund-makes-210000-in-gifts-to-korean-indian-nigerian-devs-lightning-apps-and-arabic-bitcoin-accessibility/"
+    },
+    {
+      "source": "HRF",
+      "target": "Abubakar Nur Khalil",
+      "amount": 50000,
+      "year": 2021,
+      "src": "https://hrf.org/hrf-bitcoin-development-fund-makes-210000-in-gifts-to-korean-indian-nigerian-devs-lightning-apps-and-arabic-bitcoin-accessibility/"
+    },
+    {
+      "source": "HRF",
+      "target": "Sphinx",
+      "amount": 25000,
+      "year": 2021,
+      "src": "https://hrf.org/hrf-bitcoin-development-fund-makes-210000-in-gifts-to-korean-indian-nigerian-devs-lightning-apps-and-arabic-bitcoin-accessibility/"
+    },
+    {
+      "source": "HRF",
+      "target": "Breez",
+      "amount": 25000,
+      "year": 2021,
+      "src": "https://hrf.org/hrf-bitcoin-development-fund-makes-210000-in-gifts-to-korean-indian-nigerian-devs-lightning-apps-and-arabic-bitcoin-accessibility/"
+    },
+    {
+      "source": "HRF",
+      "target": "Calvin Kim",
+      "amount": 50000,
+      "year": 2021,
+      "src": "https://hrf.org/hrf-bitcoin-development-fund-makes-210000-in-gifts-to-korean-indian-nigerian-devs-lightning-apps-and-arabic-bitcoin-accessibility/"
+    },
+    {
+      "source": "HRF",
+      "target": "Africa Bitcoin Conference",
+      "btc": 1,
+      "year": 2022,
+      "src": "https://bitcoinmagazine.com/business/human-rights-foundation-grants-5-btc-to-bitcoin-projects"
+    },
+    {
+      "source": "HRF",
+      "target": "Francisco Calderón",
+      "btc": 0.5,
+      "year": 2022,
+      "src": "https://bitcoinmagazine.com/business/human-rights-foundation-grants-5-btc-to-bitcoin-projects"
+    },
+    {
+      "source": "HRF",
+      "target": "Rene Pickhardt",
+      "btc": 0.5,
+      "year": 2022,
+      "src": "https://bitcoinmagazine.com/business/human-rights-foundation-grants-5-btc-to-bitcoin-projects"
+    },
+    {
+      "source": "HRF",
+      "target": "Ruben Somsen",
+      "btc": 0.25,
+      "year": 2022,
+      "src": "https://bitcoinmagazine.com/business/human-rights-foundation-grants-5-btc-to-bitcoin-projects"
+    },
+    {
+      "source": "HRF",
+      "target": "Dhruv Mehta",
+      "btc": 0.25,
+      "year": 2022,
+      "src": "https://bitcoinmagazine.com/business/human-rights-foundation-grants-5-btc-to-bitcoin-projects"
+    },
+    {
+      "source": "HRF",
+      "target": "Paulo Sacramento",
+      "btc": 0.25,
+      "year": 2022,
+      "src": "https://bitcoinmagazine.com/business/human-rights-foundation-grants-5-btc-to-bitcoin-projects"
+    }
+  ]
+}
