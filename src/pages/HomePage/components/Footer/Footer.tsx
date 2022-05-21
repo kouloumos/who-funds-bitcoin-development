@@ -44,12 +44,12 @@ const Footer = ({ entities, onEntitySelection: selectEntity }: Props) => {
   return (
     <FooterWrapper>
       <FeedbackLink
-        href={`https://twitter.com/kouloumos`}
+        href={`https://github.com/kouloumos/who-funds-bitcoin-development`}
         target="_blank"
         rel="noreferrer"
-        onClick={() => trackEvent("feedback", "click")}
+        onClick={() => trackEvent("data", "click")}
       >
-        feedback?
+        data?
       </FeedbackLink>
       {showSearch ? (
         <Autocomplete

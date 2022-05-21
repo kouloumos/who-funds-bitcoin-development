@@ -49,15 +49,14 @@ const Intro = () => {
           Zoom, drag and click around to explore further!
         </p>
         <p style={{ fontSize: 12 }}>
-          I will soon publish to GitHub for anyone eager to contribute data.
-          Until then,
+          Submit a PR
           <FeedbackLink
-            href={`https://twitter.com/kouloumos`}
+            href={`https://github.com/kouloumos/who-funds-bitcoin-development`}
             target="_blank"
             rel="noreferrer"
-            onClick={() => trackEvent("feedback", "click")}
+            onClick={() => trackEvent("data", "click")}
           >
-            DM me with data or feedback
+            to contribute data 
           </FeedbackLink>
           .
         </p>
