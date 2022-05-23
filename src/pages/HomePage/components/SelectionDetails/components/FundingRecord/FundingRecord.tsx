@@ -16,7 +16,6 @@ import {
   TagWrapper,
 } from "./FundingRecord.style";
 
-
 type Props = {
   onEntitySelection: (
     event: any,
@@ -24,6 +23,7 @@ type Props = {
     source: SelectEntitySource
   ) => void;
 } & FundingRecordType;
+
 const FundingRecord = ({
   amount,
   btc,
@@ -39,13 +39,19 @@ const FundingRecord = ({
       return `since ${year[0]}`;
     } else return year;
   };
+
   const renderDetailsTags = () => {
-    const isEmployeRecord = amount === undefined && details;
-    if (isEmployeRecord) {
+    const isGrant = amount;
+    if (isGrant) {
+      // grant
+      if (details === undefined) return ["GRANT"];
       if (Array.isArray(details)) return details;
       return [details];
     } else {
-      return ["GRANT"];
+      // employe record
+      if (details === undefined) return [];
+      if (Array.isArray(details)) return details;
+      return [details];
     }
   };
 

@@ -93,11 +93,26 @@
     },
     {
       "source": "BitMEX",
+      "target": "Gleb Naumenko",
+      "amount": 50000,
+      "year": 2022,
+      "src": "https://blog.bitmex.com/renewal-of-gleb-naumenkos-bitcoin-developer-grant-3/"
+    },
+    {
+      "source": "BitMEX",
       "target": "Sjors Provoost",
       "amount": 37500,
       "year": 2021,
       "details": ["part-time", "grant"],
       "src": "https://blog.bitmex.com/new-open-source-bitcoin-developer-grant-for-sjors-provoost-2/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Sjors Provoost",
+      "amount": 32500,
+      "year": 2022,
+      "details": ["part-time", "grant"],
+      "src": "https://blog.bitmex.com/renewal-of-sjors-provoosts-bitcoin-developer-grant/"
     }
   ]
 }
