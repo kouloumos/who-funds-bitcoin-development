@@ -41,17 +41,11 @@ const FundingRecord = ({
   };
 
   const renderDetailsTags = () => {
-    const isGrant = amount;
-    if (isGrant) {
-      // grant
-      if (details === undefined) return ["GRANT"];
+    if (details) {
       if (Array.isArray(details)) return details;
       return [details];
     } else {
-      // employe record
-      if (details === undefined) return [];
-      if (Array.isArray(details)) return details;
-      return [details];
+      return ["GRANT"];
     }
   };
 

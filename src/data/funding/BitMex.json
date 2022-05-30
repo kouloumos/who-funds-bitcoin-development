@@ -113,6 +113,13 @@
       "year": 2022,
       "details": ["part-time", "grant"],
       "src": "https://blog.bitmex.com/renewal-of-sjors-provoosts-bitcoin-developer-grant/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Chris Coverdale",
+      "amount": 25000,
+      "year": 2022,
+      "src": "https://blog.bitmex.com/renewal-of-chris-coverdales-bitcoin-developer-grant/"
     }
   ]
 }
