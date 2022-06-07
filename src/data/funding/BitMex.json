@@ -120,6 +120,13 @@
       "amount": 25000,
       "year": 2022,
       "src": "https://blog.bitmex.com/renewal-of-chris-coverdales-bitcoin-developer-grant/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Rene Pickhardt",
+      "amount": 25000,
+      "year": 2022,
+      "src": "https://blog.bitmex.com/renewal-of-rene-pickhardts-bitcoin-developer-grant/"
     }
   ]
 }
