@@ -46,6 +46,20 @@
       "source": "Chaincode Labs",
       "target": "Russell Yanofsky",
       "details": "Engineer"
+    },
+    {
+      "source": "Chaincode Labs",
+      "target": "Martin Zumsande",
+      "details": "Engineer",
+      "year": [2022],
+      "src": "https://twitter.com/ChaincodeLabs/status/1535281445610082305"
+    },
+    {
+      "source": "Chaincode Labs",
+      "target": "Nikki Sigurdson",
+      "details": "Researcher",
+      "year": [2022],
+      "src": "https://twitter.com/ChaincodeLabs/status/1535281445610082305"
     }
   ]
 }

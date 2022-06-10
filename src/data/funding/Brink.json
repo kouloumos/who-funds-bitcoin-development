@@ -149,6 +149,13 @@
       "year": [2022],
       "details": ["grant", "$25k", "qtly"],
       "src": "https://twitter.com/bitcoinbrink/status/1527718341737062400"
+    },
+    {
+      "source": "ChadCloutman",
+      "target": "Brink",
+      "amount": 50000,
+      "year": 2022,
+      "src": "https://twitter.com/bitcoinbrink/status/1533820838818025472"
     }
   ]
 }

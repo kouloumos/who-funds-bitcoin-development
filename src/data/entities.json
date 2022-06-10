@@ -608,7 +608,7 @@
       "name": "Martin Zumsande",
       "twitter": "Lightlike1",
       "github": "mzumsande",
-      "description": "",
+      "description": "Martin started contributing to Bitcoin Core in 2019 and switched to full-time in late 2021. His main interest is in the peer-to-peer network of Bitcoin, in particular address relay.",
       "avatar": "48763452"
     },
     {
@@ -911,6 +911,18 @@
       "github": "willcl-ark",
       "description": "",
       "avatar": "https://pbs.twimg.com/profile_images/1362910214589214723/RDvsk_Nk_400x400.jpg"
+    },
+    {
+      "name": "ChadCloutman",
+      "twitter": "ChadCloutman",
+      "avatar": "https://pbs.twimg.com/profile_images/1532045231490834432/n1ZSxeEy_400x400.jpg"
+    },
+    {
+      "name": "Nikki Sigurdson",
+      "twitter": "niksigurds",
+      "github": "nikkisigurdson",
+      "description": "Nikki is a cryptographer and works on the theoretical security of Bitcoin.",
+      "avatar": "7625305"
     }
   ]
 }
