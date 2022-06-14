@@ -84,6 +84,13 @@
       "src": "https://ir.marathondh.com/news-events/press-releases/detail/1225/marathon-patent-group-provides-one-year-grant-to"
     },
     {
+      "source": "CoinShares",
+      "target": "MIT DCI",
+      "amount": 500000,
+      "year": [2021, 2024],
+      "src": "https://coinshares.com/news/coinshares-contributes-to-mit-digital-currency-initiative-to-fund-independent-research-and-open-source-development"
+    },
+    {
       "source": "Wasabi",
       "target": "Luke Dashjr",
       "btc": 0.43,
