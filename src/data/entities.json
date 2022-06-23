@@ -19,6 +19,7 @@
       "name": "Spiral",
       "twitter": "spiralbtc",
       "github": "",
+      "website": "https://spiral.xyz/",
       "description": "Bitcoin is the best money. It should be used like it. We build and fund free, open-source projects aimed at making bitcoin the planet’s preferred currency.",
       "avatar": "https://pbs.twimg.com/profile_images/1466158130690146307/MwDP2JaY_400x400.jpg"
     },
@@ -916,6 +917,14 @@
       "github": "willcl-ark",
       "description": "",
       "avatar": "https://pbs.twimg.com/profile_images/1362910214589214723/RDvsk_Nk_400x400.jpg"
+    },
+    {
+      "name": "thunderbiscuit",
+      "twitter": "thunderB__",
+      "github": "thunderbiscuit",
+      "description": "Contributor to the Bitcoin Dev Kit",
+      "avatar": "39974688",
+      "tags": ["Bitcoin Dev Kit"]
     },
     {
       "name": "ChadCloutman",
