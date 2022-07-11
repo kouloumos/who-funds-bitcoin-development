@@ -580,7 +580,8 @@
       "twitter": "SomsenRuben",
       "github": "RubenSomsen",
       "description": "Bitcoin Sorcerer that does protocol design in order to enhance Bitcoin.",
-      "avatar": "https://pbs.twimg.com/profile_images/1027624975333650432/lu-5FObc_400x400.jpg"
+      "avatar": "https://pbs.twimg.com/profile_images/1027624975333650432/lu-5FObc_400x400.jpg",
+      "tags": ["Spacechains"]
     },
     {
       "name": "Suhas Daftuar",
@@ -936,7 +937,25 @@
       "twitter": "niksigurds",
       "github": "nikkisigurdson",
       "description": "Nikki is a cryptographer and works on the theoretical security of Bitcoin.",
-      "avatar": "7625305"
+      "avatar": "7625305",
+      "tags": ["Research"]
+    },
+    {
+      "name": "Mogashni",
+      "twitter": "MogashniR",
+      "github": "mouxdesign",
+      "description": "UX specialist developing a UX Research Toolkit, contributing to the Wallet Improvement Project",
+      "avatar": "90313394",
+      "tags": ["Design"]
+    },
+    {
+      "name": "Daniela Brozzoni",
+      "twitter": "danielabrozzoni",
+      "github": "danielabrozzoni",
+      "website": "https://danielabrozzoni.com/",
+      "description": "",
+      "avatar": "25042473",
+      "tags": ["Bitcoin Dev Kit"]
     }
   ]
 }
