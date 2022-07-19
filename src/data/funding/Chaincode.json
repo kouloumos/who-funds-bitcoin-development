@@ -1,4 +1,18 @@
 {
+  "funding": [
+    {
+      "source": "Alex Morcos",
+      "target": "Chaincode Labs",
+      "details": "Co-Founder",
+      "year": [2014]
+    },
+    {
+      "source": "Suhas Daftuar",
+      "target": "Chaincode Labs",
+      "details": "Co-Founder",
+      "year": [2014]
+    }
+  ],
   "employs": [
     {
       "source": "Chaincode Labs",

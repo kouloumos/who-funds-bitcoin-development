@@ -46,12 +46,12 @@
       "avatar": "https://brink.dev/assets/images/sponsors/hrf.jpg"
     },
     {
-      "name": "Gemini",
-      "twitter": "Gemini",
+      "name": "Superlunar",
+      "twitter": "superlunarhq",
       "github": "gemini",
-      "website": "https://www.gemini.com/opportunity-fund",
-      "description": "",
-      "avatar": "https://pbs.twimg.com/profile_images/1506628290693509129/gD0eqGyF_400x400.jpg"
+      "website": "https://www.superlunar.com/fund",
+      "description": "Superlunar is an extension of the Gemini Opportunity Fund created in 2020 and plans to build upon its previous impact.",
+      "avatar": "https://pbs.twimg.com/profile_images/1517479850570883073/g9o3hmVQ_400x400.png"
     },
     {
       "name": "Lightning Labs",
@@ -373,7 +373,8 @@
       "twitter": "tdryja",
       "github": "adiabat",
       "description": "A creator of the Lightning Network, Tadge Dryja leads DCI research focused on the scaling and interoperability of cryptocurrencies and smart contracts.",
-      "avatar": "https://images.squarespace-cdn.com/content/v1/59aae5e9a803bb10bedeb03e/1504454164145-1EXVIBWA0V0D5E9EI750/tadge+dryja.jpg"
+      "avatar": "https://images.squarespace-cdn.com/content/v1/59aae5e9a803bb10bedeb03e/1504454164145-1EXVIBWA0V0D5E9EI750/tadge+dryja.jpg",
+      "tags": ["Lightning", "Utreexo"]
     },
     {
       "name": "Steve Myers",
@@ -584,10 +585,17 @@
       "tags": ["Spacechains"]
     },
     {
+      "name": "Alex Morcos",
+      "twitter": "morcosa",
+      "github": "morcos",
+      "description": "He discovered his passion for Bitcoin in 2012, and in 2014 he co-founded Chaincode with Suhas. He has enjoyed contributing to Bitcoin Core and learning about the exciting nascent field of cryptocurrency ever since.",
+      "avatar": "4360349"
+    },
+    {
       "name": "Suhas Daftuar",
       "twitter": "suhasdaftuar",
       "github": "sdaftuar",
-      "description": "",
+      "description": "Co-founded Chaincode Labs to create a place for engineers and scientists to support the development of decentralized digital currencies and further our collective understanding of how such technologies can work.",
       "avatar": "https://pbs.twimg.com/profile_images/846539116879757312/srjc36Qp_400x400.jpg"
     },
     {
@@ -956,6 +964,22 @@
       "description": "",
       "avatar": "25042473",
       "tags": ["Bitcoin Dev Kit"]
+    },
+    {
+      "name": "Qala",
+      "twitter": "QalaAfrica",
+      "github": "Qala-Dev",
+      "website": "https://qala.dev/",
+      "description": "Training the next generation of African Bitcoin and Lightning developers",
+      "avatar": "90432245",
+      "tags": ["Education"]
+    },
+    {
+      "name": "BitcoinZavior",
+      "twitter": "BitcoinZavior",
+      "github": "BitcoinZavior",
+      "description": "Bitcoin Zavior is creating tools that improve experiences for bitcoin and Lightning Network developers.",
+      "avatar": "93057399"
     }
   ]
 }

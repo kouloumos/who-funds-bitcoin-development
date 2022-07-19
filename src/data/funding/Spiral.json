@@ -167,6 +167,12 @@
     },
     {
       "source": "Spiral",
+      "target": "Daniel Nordh",
+      "year": 2022,
+      "src": "https://twitter.com/spiralbtc/status/1521173488735764483"
+    },
+    {
+      "source": "Spiral",
       "target": "Summer of Bitcoin",
       "year": 2022,
       "src": "https://twitter.com/spiralbtc/status/1521573481216892929"
@@ -191,6 +197,12 @@
     },
     {
       "source": "Spiral",
+      "target": "Raj Maitra",
+      "year": 2022,
+      "src": "https://twitter.com/spiralbtc/status/1539715439672012800"
+    },
+    {
+      "source": "Spiral",
       "target": "Mogashni",
       "year": 2022,
       "src": "https://twitter.com/spiralbtc/status/1542174566524624899"
@@ -206,6 +218,12 @@
       "target": "Daniela Brozzoni",
       "year": 2022,
       "src": "https://twitter.com/spiralbtc/status/1542900687243071488"
+    },
+    {
+      "source": "Spiral",
+      "target": "BitcoinZavior",
+      "year": 2022,
+      "src": "https://spiral.xyz/blog/spiral-quarterly-update-q2-2022/"
     }
   ]
 }

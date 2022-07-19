@@ -30,6 +30,7 @@ const employmentSources = {
 };
 
 const grantSources = {
+  Chaincode: ChaincodeData.funding,
   Brink: BrinkData.funding,
   OKCoin: OKCoinData.funding,
   HRF: HRFData.funding,

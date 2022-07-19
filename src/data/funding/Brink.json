@@ -156,6 +156,13 @@
       "amount": 50000,
       "year": 2022,
       "src": "https://twitter.com/bitcoinbrink/status/1533820838818025472"
+    },
+    {
+      "source": "Brink",
+      "target": "Tadge Dryja",
+      "year": 2022,
+      "details": ["part-time", "grant"],
+      "src": "https://brink.dev/blog/2022/06/30/tadge-dryja/"
     }
   ]
 }

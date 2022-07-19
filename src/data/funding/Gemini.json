@@ -1,50 +1,74 @@
 {
   "funding": [
     {
-      "source": "Gemini",
+      "source": "Superlunar",
       "target": "HRF",
       "amount": 50000,
       "year": 2020,
       "src": "https://www.gemini.com/blog/gemini-opportunity-fund-launches-to-support-bitcoin-core-developers"
     },
     {
-      "source": "Gemini",
+      "source": "Superlunar",
       "target": "Brink",
       "amount": 150000,
       "year": 2020,
       "src": "https://www.gemini.com/blog/gemini-opportunity-fund-launches-to-support-bitcoin-core-developers"
     },
     {
-      "source": "Gemini",
+      "source": "Superlunar",
       "target": "MIT DCI",
       "amount": 1000000,
       "year": [2021, 2024],
       "src": "https://www.gemini.com/blog/gemini-opportunity-fund-donates-to-mits-digital-currency-initiative"
     },
     {
-      "source": "Gemini",
+      "source": "Superlunar",
       "target": "Mempool",
       "amount": 25000,
       "year": 2021,
       "src": "https://www.gemini.com/blog/gemini-supports-bitcoin-ecosystem-with-usd25k-mempool-space-sponsorship"
     },
     {
-      "source": "Gemini",
+      "source": "Superlunar",
       "target": "Amiti Uttarwar",
       "year": 2021,
       "src": "https://www.gemini.com/blog/gemini-to-sponsor-bitcoin-core-developer-amiti-uttarwar"
     },
     {
-      "source": "Gemini",
+      "source": "Superlunar",
       "target": "Jarol Rodriguez",
       "year": 2021,
       "src": "https://www.gemini.com/blog/gemini-to-sponsor-bitcoin-core-developers-dhruv-mehta-and-jarol-rodriguez"
     },
     {
-      "source": "Gemini",
+      "source": "Superlunar",
       "target": "Dhruv Mehta",
       "year": 2021,
       "src": "https://www.gemini.com/blog/gemini-to-sponsor-bitcoin-core-developers-dhruv-mehta-and-jarol-rodriguez"
+    },
+    {
+      "source": "Superlunar",
+      "target": "Summer of Bitcoin",
+      "year": 2022,
+      "src": "https://www.superlunar.com/post/superlunar-is-proud-to-sponsor-summer-of-bitcoin-2022"
+    },
+    {
+      "source": "Superlunar",
+      "target": "Dhruv Mehta",
+      "year": 2022,
+      "src": "https://www.superlunar.com/post/raising-the-free-and-rebellious-with-dhruv-mehta"
+    },
+    {
+      "source": "Superlunar",
+      "target": "Qala",
+      "year": 2022,
+      "src": "https://www.superlunar.com/post/africas-new-generation-of-bitcoin-developers"
+    },
+    {
+      "source": "Superlunar",
+      "target": "Jarol Rodriguez",
+      "year": 2022,
+      "src": "https://www.superlunar.com/post/beautifying-bitcoin-with-jarol-rodriguez"
     }
   ]
 }
