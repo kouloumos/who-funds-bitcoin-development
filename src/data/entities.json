@@ -653,7 +653,8 @@
       "github": "dhruv",
       "website": "https://voluntarymind.com/",
       "description": "Dhruv’s work relates to the susceptibility of the Bitcoin Network to DNS and border gateway protocol attacks on Bitcoin seed nodes.",
-      "avatar": "856960"
+      "avatar": "856960",
+      "tags": ["Bitcoin Core", "BIP-324"]
     },
     {
       "name": "Cory Fields",
@@ -980,6 +981,21 @@
       "github": "BitcoinZavior",
       "description": "Bitcoin Zavior is creating tools that improve experiences for bitcoin and Lightning Network developers.",
       "avatar": "93057399"
+    },
+    {
+      "name": "Shashwat Vangani",
+      "twitter": "_shaavan",
+      "github": "shaavan",
+      "description": "Helping develop the new GUI for Bitcoin Core.",
+      "avatar": "85434418",
+      "tags": ["Bitcoin Core", "GUI"]
+    },
+    {
+      "name": "stratospher",
+      "github": "stratospher",
+      "description": "Working on BIP 324's integration testing and more.",
+      "avatar": "44024636",
+      "tags": ["Bitcoin Core", "BIP-324"]
     }
   ]
 }
