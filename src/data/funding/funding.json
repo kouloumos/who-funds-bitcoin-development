@@ -117,6 +117,13 @@
       "amount": 80000,
       "year": 2021,
       "src": "https://compassmining.io/education/compass-core-developer-donation/"
+    },
+    {
+      "source": "Foundry",
+      "target": "4ss0",
+      "btc": 1,
+      "year": 2022,
+      "src": "https://www.prnewswire.com/news-releases/foundry-makes-btc-donation-to-open-source-stratum-v2-protocol-developer-to-improve-bitcoins-proof-of-work-mining-layer-301598747.html"
     }
   ]
 }

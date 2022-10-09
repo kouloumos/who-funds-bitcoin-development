@@ -163,6 +163,12 @@
       "year": 2022,
       "details": ["part-time", "grant"],
       "src": "https://brink.dev/blog/2022/06/30/tadge-dryja/"
+    },
+    {
+      "source": "Brink",
+      "target": "Stphnvlstk",
+      "year": 2022,
+      "src": "https://brink.dev/blog/2022/07/29/stephan-vuylsteke/"
     }
   ]
 }

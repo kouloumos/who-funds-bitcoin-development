@@ -58,6 +58,18 @@
       "amount": 150000,
       "year": 2022,
       "src": "https://blog.okcoin.com/2022/04/19/meet-gloria-zhao-bitcoin-core-developer-and-okcoin-grantee"
+    },
+    {
+      "source": "OKCoin",
+      "target": "Vinteum",
+      "year": 2022,
+      "src": "https://blog.okcoin.com/meet-vinteum-and-qala-our-new-bitcoin-open-source-grant-recipients/"
+    },
+    {
+      "source": "OKCoin",
+      "target": "Qala",
+      "year": 2022,
+      "src": "https://blog.okcoin.com/meet-vinteum-and-qala-our-new-bitcoin-open-source-grant-recipients/"
     }
   ]
 }

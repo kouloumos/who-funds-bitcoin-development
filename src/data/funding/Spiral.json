@@ -1,4 +1,12 @@
 {
+  "employs": [
+    {
+      "source": "Spiral",
+      "target": "Matt Corallo",
+      "year": [2019],
+      "src": "https://twitter.com/spiralbtc/status/1163850926114762755"
+    }
+  ],
   "funding": [
     {
       "source": "Spiral",

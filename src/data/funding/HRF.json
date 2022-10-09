@@ -153,6 +153,12 @@
       "btc": 0.25,
       "year": 2022,
       "src": "https://bitcoinmagazine.com/business/human-rights-foundation-grants-5-btc-to-bitcoin-projects"
+    },
+    {
+      "source": "HRF",
+      "target": "Vinteum",
+      "year": 2022,
+      "src": "https://twitter.com/Vinteum_org/status/1557406664613154817"
     }
   ]
 }

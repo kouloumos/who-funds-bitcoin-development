@@ -12,6 +12,7 @@ import GeminiData from "src/data/funding/Gemini.json";
 import SpiralData from "src/data/funding/Spiral.json";
 import BitMexData from "src/data/funding/BitMex.json";
 import CoinbaseData from "src/data/funding/Coinbase.json";
+import VinteumData from "src/data/funding/Vinteum.json";
 
 import miscEmploymentData from "src/data/funding/employment.json";
 import ChaincodeData from "src/data/funding/Chaincode.json";
@@ -27,6 +28,7 @@ const employmentSources = {
   Chaincode: ChaincodeData.employs,
   Blockstream: BlockstreamData.employs,
   DCI: DCIData.employs,
+  Spiral: SpiralData.employs,
 };
 
 const grantSources = {
@@ -38,6 +40,7 @@ const grantSources = {
   Spiral: SpiralData.funding,
   BitMex: BitMexData.funding,
   Coinbase: CoinbaseData.funding,
+  VinteumData: VinteumData.funding,
 };
 
 const useCalculateFunding = (year: number) => {

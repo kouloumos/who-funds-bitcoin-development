@@ -24,6 +24,14 @@
       "avatar": "https://pbs.twimg.com/profile_images/1466158130690146307/MwDP2JaY_400x400.jpg"
     },
     {
+      "name": "Vinteum",
+      "twitter": "Vinteum_org",
+      "github": "",
+      "website": "https://vinteum.org/",
+      "description": "Empowering open-source Bitcoin builders in Brazil and the wider Latin America region",
+      "avatar": "https://pbs.twimg.com/profile_images/1557052904216854528/mSWM4YdM_400x400.jpg"
+    },
+    {
       "name": "MIT DCI",
       "twitter": "mitdci",
       "github": "mit-dci",
@@ -75,7 +83,7 @@
       "github": "BitMEX",
       "website": "https://blog.bitmex.com/grants/",
       "description": "",
-      "avatar": "https://pbs.twimg.com/profile_images/1427448339386101760/5Z4zo9Nv_400x400.jpg"
+      "avatar": "https://pbs.twimg.com/profile_images/1574307263996518401/a18tj9Q5_400x400.jpg"
     },
     {
       "name": "Coinbase",
@@ -144,7 +152,7 @@
       "name": "Payvant",
       "twitter": "",
       "website": "https://payvant.com/",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C560BAQGSlI5_tl0T2A/company-logo_200_200/0/1591107083669?e=1660176000&v=beta&t=hjydF8byOZFNI9icwJmIMfIytMuJPkJQ_l25G-xHLyQ"
+      "avatar": "https://scontent.fath3-4.fna.fbcdn.net/v/t39.30808-6/291965766_698392574663306_4078352481361570808_n.png?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6t3DyGAXP0EAX_DJXB2&_nc_ht=scontent.fath3-4.fna&oh=00_AT_JswHaDXUGHjsmbC0Bn0Wfexw3NkEvMT0qoBp0OFhClQ&oe=63483E96"
     },
     {
       "name": "Silvergate Bank",
@@ -209,14 +217,14 @@
       "twitter": "wasabiwallet",
       "github": "zkSNACKs",
       "website": "https://www.wasabiwallet.io/",
-      "avatar": "https://pbs.twimg.com/profile_images/1484278704759050244/OQZAsj7v_400x400.jpg"
+      "avatar": "https://pbs.twimg.com/profile_images/1569656371636838400/FxEqHud3_400x400.jpg"
     },
     {
       "name": "Bull Bitcoin",
       "twitter": "bullbitcoin_",
       "github": "SatoshiPortal",
       "website": "https://www.bullbitcoin.com/",
-      "avatar": "https://pbs.twimg.com/profile_images/1524535138662686721/YUmCvszo_400x400.jpg"
+      "avatar": "https://pbs.twimg.com/profile_images/1554487745967439873/AKNt0wwd_400x400.png"
     },
     {
       "name": "Hardcore Fund",
@@ -230,7 +238,7 @@
       "twitter": "MarathonDH",
       "website": "https://marathondh.com/",
       "description": "Securing and supporting the world’s monetary network by building one of the largest, most agile, and most sustainable #Bitcoin mining operations in the world",
-      "avatar": "https://pbs.twimg.com/profile_images/1518991388725026816/9eXYWF1p_400x400.jpg"
+      "avatar": "https://pbs.twimg.com/profile_images/1552713854932623360/_pc9SWUM_400x400.jpg"
     },
     {
       "name": "Global Mesh Labs",
@@ -239,6 +247,14 @@
       "website": "https://globalmeshlabs.org/",
       "description": "An open source project to create a global mesh communication network incentivized by the Bitcoin Lightning network.",
       "avatar": "51215620"
+    },
+    {
+      "name": "Foundry",
+      "twitter": "FoundryServices",
+      "github": "foundryservices",
+      "website": "https://foundrydigital.com/",
+      "description": "Meeting the institutional demand for better capital access, efficiency, and transparency in the digital asset mining and staking industry.",
+      "avatar": "67053563"
     },
     {
       "name": "Gloria Zhao",
@@ -404,7 +420,8 @@
       "twitter": "chris_coverdale",
       "github": "ccdle12",
       "description": "Chris has been contributing to Lightning and Bitcoin Core technologies since 2019. His primary focus is Bitcoin and mining protocols such as StratumV2.",
-      "avatar": "18324680"
+      "avatar": "18324680",
+      "tags": ["StratumV2"]
     },
     {
       "name": "Michael Ford",
@@ -634,13 +651,6 @@
       "avatar": "5767891"
     },
     {
-      "name": "Michael Dietz",
-      "twitter": "waya_ai",
-      "github": "mjdietzx",
-      "description": "",
-      "avatar": "7217256"
-    },
-    {
       "name": "Aaron Clauson",
       "twitter": "sipsorcery",
       "github": "sipsorcery",
@@ -668,8 +678,9 @@
       "name": "Matt Corallo",
       "twitter": "thebluematt",
       "github": "TheBlueMatt",
-      "description": "",
-      "avatar": "649246"
+      "description": "10th known contributor to Bitcoin Core.",
+      "avatar": "649246",
+      "tags": ["LDK"]
     },
     {
       "name": "Gleb Naumenko",
@@ -827,8 +838,9 @@
       "name": "Bruno Garcia",
       "twitter": "brrrunog",
       "github": "brunoerg",
-      "description": "",
-      "avatar": "19480819"
+      "description": "Director of Education at Vinteum",
+      "avatar": "19480819",
+      "tags": ["Bitcoin Core"]
     },
     {
       "name": "Abubakar Nur Khalil",
@@ -915,8 +927,8 @@
       "avatar": "228364"
     },
     {
-      "name": "stickies-v",
-      "twitter": "",
+      "name": "Stphnvlstk",
+      "twitter": "stphnvlstk",
       "github": "stickies-v",
       "description": "",
       "avatar": "69010457"
@@ -996,6 +1008,13 @@
       "description": "Working on BIP 324's integration testing and more.",
       "avatar": "44024636",
       "tags": ["Bitcoin Core", "BIP-324"]
+    },
+    {
+      "name": "4ss0",
+      "github": "4ss0",
+      "description": "Working on the implementation of the Job Negotiation Protocol in Stratum V2.",
+      "avatar": "27438591",
+      "tags": ["StratumV2"]
     }
   ]
 }
