@@ -817,7 +817,8 @@
       "github": "0xb10c",
       "website": "https://b10c.me/",
       "description": "Over the past years, I’ve built tools to visualize and observe the Bitcoin mempool, mining pool transaction selection, and other protocol level statistics.",
-      "avatar": "19157360"
+      "avatar": "19157360",
+      "tags": ["Bitcoin Core", "Data"]
     },
     {
       "name": "Vincenzo Palazzo",
@@ -878,8 +879,9 @@
       "name": "Josie",
       "twitter": "josibake",
       "github": "josibake",
-      "description": "",
-      "avatar": "7444140"
+      "description": "Josie is currently collaborating on a project that takes an empirical approach to analyze and clean mempool data. Also making plans to work on Cross-Input Signature Aggregation (CISA).",
+      "avatar": "7444140",
+      "tags": ["Bitcoin Core", "Data"]
     },
     {
       "name": "Openoms",

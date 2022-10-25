@@ -134,6 +134,21 @@
       "amount": 50000,
       "year": 2022,
       "src": "https://blog.bitmex.com/renewal-of-calvin-kims-bitcoin-developer-grant-2/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Calvin Kim",
+      "amount": 50000,
+      "year": 2022,
+      "src": "https://blog.bitmex.com/renewal-of-calvin-kims-bitcoin-developer-grant-3/"
+    },
+    {
+      "source": "BitMEX",
+      "target": "Sjors Provoost",
+      "amount": 22500,
+      "year": 2022,
+      "details": ["part-time", "grant"],
+      "src": "https://blog.bitmex.com/renewal-of-sjors-provoosts-bitcoin-developer-grant-2/"
     }
   ]
 }
